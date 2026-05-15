@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "greatdx.aternos.me",
+    "ip": "betta.aternos.host:31053",
     "port": 31053,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
