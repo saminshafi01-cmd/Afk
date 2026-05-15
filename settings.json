@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "betta.aternos.host:31053",
+    "ip": "betta.aternos.host",
     "port": 31053,
     "version": "",
     "try-creative": false
